@@ -1,0 +1,53 @@
+The term you're likely referring to is "Crash" rather than "Crush" of the stock market. Stock market crashes are significant, sudden drops in stock prices across a broad cross-section of a stock market. Here's an overview of major stock market crashes in U.S. history:
+
+1. Panic of 1907
+   - Caused by: Failed attempt to corner the market on stock of the United Copper Company
+   - Result: 50% drop in stocks; banking panic
+
+2. Wall Street Crash of 1929
+   - Caused by: Speculative boom in the 1920s, overvaluation
+   - Result: 89% drop in stock prices; led to the Great Depression
+
+3. Black Monday (1987)
+   - Date: October 19, 1987
+   - Caused by: Program trading, overvaluation, illiquidity
+   - Result: 22.6% drop in the Dow Jones Industrial Average in one day
+
+4. Dot-com Bubble Burst (2000-2002)
+   - Caused by: Speculative investing in internet-based companies
+   - Result: NASDAQ fell from 5,000 to 1,000; many tech companies went bankrupt
+
+5. Financial Crisis of 2008
+   - Caused by: Subprime mortgage crisis, collapse of the U.S. housing bubble
+   - Result: 54% drop in the S&P 500 from peak to trough
+
+6. Flash Crash (2010)
+   - Date: May 6, 2010
+   - Caused by: High-frequency trading algorithms
+   - Result: Brief 1,000-point drop in the Dow; quick recovery
+
+7. COVID-19 Crash (2020)
+   - Caused by: Economic uncertainty due to the global pandemic
+   - Result: 34% drop in the S&P 500 in about a month; rapid recovery
+
+Key characteristics of stock market crashes:
+1. Sudden and severe price decline
+2. Widespread panic selling
+3. Liquidity dry-up
+4. Potential spillover effects to the broader economy
+
+Factors that can contribute to crashes:
+- Overvaluation of stocks
+- Economic recessions
+- Political instability
+- Natural disasters or global crises
+- Technological failures
+- Market manipulation
+
+Prevention and mitigation measures:
+- Circuit breakers to halt trading during extreme volatility
+- Improved regulations and oversight
+- Better risk management practices
+- Diversification of investment portfolios
+
+Remember, while crashes can be devastating, markets have historically recovered over time. However, past performance doesn't guarantee future results, and investing always carries risks.
